@@ -1,6 +1,6 @@
 - hi!!!!!
 - i like coding and stufs!!!!!!!!!
-- currently learning C# and Lua
+- currently learning C#, Lua, and Python
 - reach me via oscarcon42@gmail.com
 - he/him
 
