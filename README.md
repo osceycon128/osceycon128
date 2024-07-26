@@ -1,8 +1,4 @@
-- hi!!!!!
-- i like coding and stufs!!!!!!!!!
-- currently learning C#, Lua, and Python
-- reach me via oscarcon42@gmail.com
-- he/him
+wsg, i do python and HTML5/CSS/JS programming. i think python has been my fav recently
 
 <!---
 osceycon128/osceycon128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
